@@ -1,1 +1,4 @@
 
+[submodule "mqtt_bridge"]
+	path = mqtt_bridge
+	url = https://github.com/ARG-NCTU/mqtt_bridge.git
