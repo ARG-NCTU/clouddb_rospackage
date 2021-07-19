@@ -1,3 +1,1 @@
-[submodule "mqtt_bridge"]
-	path = mqtt_bridge
-	url = git@github.com:ARG-NCTU/mqtt_bridge.git
+
